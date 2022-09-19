@@ -1,4 +1,4 @@
-# BT4222
+# Predicting film ratings using reviews
 Codes written for part of a group project
 
 ## Brief project description
